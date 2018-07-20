@@ -1,10 +1,10 @@
 to run the program
 
-cd ~/CMPT470-GROUP11/online_bidding
+cd ~/online-bid/online_bidding
 
 enter "composer update"
 
-cd .. (to CMPT470-GROUP11 folder)
+cd .. (to online-bid folder)
 
 vagrant up
 
